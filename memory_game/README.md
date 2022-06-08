@@ -95,7 +95,7 @@
 * [EasyEDA](https://easyeda.com/)
 * [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 * [JLCPCB for Manufacturing](https://jlcpcb.com/)
-* Misc. Electronics found in the BOM
+* Electronic components that can be founds in the [BOM](https://github.com/msrogers2015/Raspberry-Pi-Zero-and-Pico-Projects/blob/master/memory_game/BOM.xlsx)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
