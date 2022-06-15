@@ -81,8 +81,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Top view of board](images/top.png)
-![Top view of board](images/bottom.png)
+![Top view of board](images/top.svg)
+![Top view of board](images/bottom.svg)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -95,7 +95,7 @@
 * [EasyEDA](https://easyeda.com/)
 * [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 * [JLCPCB for Manufacturing](https://jlcpcb.com/)
-* Misc. Electronics found in the BOM
+* [Misc. Electronics found in the BOM](BOM.txt)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -115,8 +115,8 @@ The goal for this project is mostly soldering practice. The code is editable whe
 ### Installation
 
 1. Build the circuit. If using a pcb, solder components to board. If using breadboard, ensure all connections are correct.
-2. Open Thonny and load `main.py`
-3. Plug in the Raspberry Pi Pico to your computer. If needed, flash newest firmware into the board before saving the script.
+2. Open Thonny and open `main.py` file
+3. Plug in the Raspberry Pi Pico to your computer. If needed, [flash newest firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3) into the board before saving the script.
 . Save `main.py` into the Raspberry Pi Pico.
 4. To start the game, press the blue and yellow button at the same time. 
 
@@ -127,7 +127,7 @@ The goal for this project is mostly soldering practice. The code is editable whe
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project is geared towards practicing soldering through-hole components into a printed circuit board. By using the printed circuit board, you are able to solidify the project and only need a small power bank such as [this one](https://www.amazon.com/Portable-Charger-Capacity-External-Indicator/dp/B08QHG1SWY/ref=sr_1_14?crid=2G9YIQGVGKIJ0&keywords=power%2Bbank&qid=1654678517&refinements=p_36%3A2491155011%2Cp_72%3A2491149011&rnid=2491147011&s=wireless&sprefix=power%2Bbank%2Caps%2C107&sr=1-14&th=1).
+This project is geared towards practicing soldering through-hole components into a printed circuit board. By using the printed circuit board, you are able to solidify the project and make it portable. There will be a YouTube video going through the code as well.
 
 If you would like a challenge, try adding a little song to the end_game function or create a new function for a new game startup (flashing led patterns, sounds, etc to notify a new game is starting).
 
